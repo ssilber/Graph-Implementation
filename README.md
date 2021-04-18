@@ -1,2 +1,2 @@
 # Graph-Implementation
-Portfolio project for CS 261 - Data Structures at Oregon State University
+Implementations of the Directed and Undirected graph data structures
